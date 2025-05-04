@@ -62,15 +62,14 @@ Follow these steps to run the dashboard locally:
 ## Project Structure 📁
  ```
 earthquake-dashboard/
-├── .gitignore # Specifies intentionally untracked files (like venv/)
-├── dashboard.py # Main Python script with Streamlit app logic 📄
-├── requirements.txt# Python dependencies list 📄
-└── README.md # This file 📄
+├── .gitignore 
+├── dashboard.py 
+└── README.md 
 ```
 
 
 ## Contact 👤
 
-*   **Name:** [Your Name]
-*   **LinkedIn:** [Your LinkedIn Profile URL]
-*   **GitHub:** [Your GitHub Profile URL]
+*   **Name:** Ramesh Manthirakumar
+*   **LinkedIn:** linkedin.com/in/ramesh-manthirakumar-a49191199
+*   **GitHub:** https://github.com/rameshmkumar
